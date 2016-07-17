@@ -1,0 +1,10 @@
+D:\SelfProject\QuartzDemo\Log4NetDemo\bin\Release\Log4NetDemo.exe.config
+D:\SelfProject\QuartzDemo\Log4NetDemo\bin\Release\Log4NetDemo.exe
+D:\SelfProject\QuartzDemo\Log4NetDemo\bin\Release\Log4NetDemo.pdb
+D:\SelfProject\QuartzDemo\Log4NetDemo\bin\Release\log4net.dll
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.Form1.resources
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.Properties.Resources.resources
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.csproj.GenerateResource.Cache
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.exe
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.pdb
+D:\SelfProject\QuartzDemo\Log4NetDemo\obj\Release\Log4NetDemo.csprojResolveAssemblyReference.cache

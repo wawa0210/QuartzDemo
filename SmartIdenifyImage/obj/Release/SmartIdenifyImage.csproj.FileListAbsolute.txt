@@ -1,0 +1,10 @@
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\SmartIdenifyImage.csprojResolveAssemblyReference.cache
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\ImageIdentify.baml
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\MainWindow.baml
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\ImageIdentify.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\MainWindow.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\App.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\SmartIdenifyImage_MarkupCompile.cache
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\SmartIdenifyImage.g.resources
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\SmartIdenifyImage.Properties.Resources.resources
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Release\SmartIdenifyImage.csproj.GenerateResource.Cache

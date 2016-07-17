@@ -1,0 +1,13 @@
+D:\SelfProject\QuartzDemo\PetaPocoDemo\bin\Release\PetaPocoDemo.exe.config
+D:\SelfProject\QuartzDemo\PetaPocoDemo\bin\Release\PetaPocoDemo.exe
+D:\SelfProject\QuartzDemo\PetaPocoDemo\bin\Release\PetaPocoDemo.pdb
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\MainWindow.baml
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\MainWindow.g.cs
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\App.g.cs
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo_MarkupCompile.cache
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.g.resources
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.Properties.Resources.resources
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.csproj.GenerateResource.Cache
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.exe
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.pdb
+D:\SelfProject\QuartzDemo\PetaPocoDemo\obj\Release\PetaPocoDemo.csprojResolveAssemblyReference.cache

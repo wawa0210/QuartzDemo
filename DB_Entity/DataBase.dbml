@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SunyuCRM_V3" Class="DataBaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=112.124.13.231,49317\MSSQL2012;Initial Catalog=SunyuCRM_V3;User ID=sa" SettingsObjectName="DB_Entity.Properties.Settings" SettingsPropertyName="SunyuCRM_V3ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Marketing_MsgPool" Member="Marketing_MsgPool">
+    <Type Name="Marketing_MsgPool">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MsgChannel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserCode" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TemplateCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MsgTitle" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MsgContent" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Priority" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExpectedTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="SendCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MsgBatchCode" Type="System.String" DbType="NVarChar(64)" CanBeNull="true" />
+      <Column Name="RefType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RefCode" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Memo" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Marketing_MsgQueue" Member="Marketing_MsgQueue">
+    <Type Name="Marketing_MsgQueue">
+      <Column Name="Id" Type="System.String" DbType="VarChar(64) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MsgChannel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TemplateCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MsgTitle" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MsgContent" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastSendTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Priority" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExpectedTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SendCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MsgBatchCode" Type="System.String" DbType="NVarChar(64)" CanBeNull="true" />
+      <Column Name="RefType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RefCode" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="MsgQId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RecvTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Memo" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Marketing_WechatPool" Member="Marketing_WechatPool">
+    <Type Name="Marketing_WechatPool">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CustCode" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="WechatChannel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PushTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Memo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="RefCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RefType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamSet" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Marketing_WechatQueue" Member="Marketing_WechatQueue">
+    <Type Name="Marketing_WechatQueue">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CustCode" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="WechatChannel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastSendTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Memo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="RefCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RefType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamSet" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

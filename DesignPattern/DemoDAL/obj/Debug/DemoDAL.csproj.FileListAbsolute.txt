@@ -1,0 +1,7 @@
+D:\SelfProject\DesignPattern\DemoDAL\obj\Debug\DemoDAL.csprojResolveAssemblyReference.cache
+D:\SelfProject\DesignPattern\DemoDAL\bin\Debug\DemoDAL.dll
+D:\SelfProject\DesignPattern\DemoDAL\bin\Debug\DemoDAL.pdb
+D:\SelfProject\DesignPattern\DemoDAL\bin\Debug\DemoInterface.dll
+D:\SelfProject\DesignPattern\DemoDAL\bin\Debug\DemoInterface.pdb
+D:\SelfProject\DesignPattern\DemoDAL\obj\Debug\DemoDAL.dll
+D:\SelfProject\DesignPattern\DemoDAL\obj\Debug\DemoDAL.pdb

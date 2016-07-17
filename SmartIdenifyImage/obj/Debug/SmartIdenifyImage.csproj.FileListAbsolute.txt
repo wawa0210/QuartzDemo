@@ -1,0 +1,16 @@
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\bin\Debug\SmartIdenifyImage.exe.config
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\bin\Debug\SmartIdenifyImage.exe
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\bin\Debug\SmartIdenifyImage.pdb
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\bin\Debug\log4net.dll
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\ImageIdentify.baml
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\MainWindow.baml
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\ImageIdentify.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\MainWindow.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\App.g.cs
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage_MarkupCompile.cache
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.g.resources
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.Properties.Resources.resources
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.csproj.GenerateResource.Cache
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.exe
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.pdb
+D:\SelfProject\QuartzDemo\SmartIdenifyImage\obj\Debug\SmartIdenifyImage.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\QuartxDemoMain.exe.config
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\QuartxDemoMain.exe
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\QuartxDemoMain.pdb
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.Core.dll
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.dll
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Quartz.dll
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.pdb
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.xml
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.Core.pdb
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Common.Logging.Core.xml
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Quartz.pdb
+D:\SelfProject\QuartzDemo\QuartxDemoMain\bin\Debug\Quartz.xml
+D:\SelfProject\QuartzDemo\QuartxDemoMain\obj\Debug\QuartxDemoMain.exe
+D:\SelfProject\QuartzDemo\QuartxDemoMain\obj\Debug\QuartxDemoMain.pdb
+D:\SelfProject\QuartzDemo\QuartxDemoMain\obj\Debug\QuartxDemoMain.csprojResolveAssemblyReference.cache

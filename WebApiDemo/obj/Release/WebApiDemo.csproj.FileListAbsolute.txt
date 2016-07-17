@@ -1,0 +1,17 @@
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\WebApiDemo.dll.config
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\WebApiDemo.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\WebApiDemo.pdb
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Web.Http.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Web.Http.xml
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\zh-Hans\System.Web.Http.resources.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\obj\Release\WebApiDemo.dll
+D:\SelfProject\QuartzDemo\WebApiDemo\obj\Release\WebApiDemo.pdb
+D:\SelfProject\QuartzDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+D:\SelfProject\QuartzDemo\WebApiDemo\obj\Release\WebApiDemo.csprojResolveAssemblyReference.cache

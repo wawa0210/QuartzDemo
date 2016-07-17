@@ -1,0 +1,7 @@
+D:\SelfProject\QuartzDemo\DB_Entity\bin\Debug\DB_Entity.dll.config
+D:\SelfProject\QuartzDemo\DB_Entity\bin\Debug\DB_Entity.dll
+D:\SelfProject\QuartzDemo\DB_Entity\bin\Debug\DB_Entity.pdb
+D:\SelfProject\QuartzDemo\DB_Entity\bin\Debug\Newtonsoft.Json.dll
+D:\SelfProject\QuartzDemo\DB_Entity\obj\Debug\DB_Entity.dll
+D:\SelfProject\QuartzDemo\DB_Entity\obj\Debug\DB_Entity.pdb
+D:\SelfProject\QuartzDemo\DB_Entity\obj\Debug\DB_Entity.csprojResolveAssemblyReference.cache

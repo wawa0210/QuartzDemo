@@ -1,0 +1,11 @@
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe.config
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.pdb
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMQ.Client.dll
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMQ.ServiceModel.dll
+D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMQ.Client.xml
+D:\SelfProject\QuartzDemo\RabbitMqService\obj\Release\RabbitMqService.ProjectInstaller.resources
+D:\SelfProject\QuartzDemo\RabbitMqService\obj\Release\RabbitMqService.csproj.GenerateResource.Cache
+D:\SelfProject\QuartzDemo\RabbitMqService\obj\Release\RabbitMqService.exe
+D:\SelfProject\QuartzDemo\RabbitMqService\obj\Release\RabbitMqService.pdb
+D:\SelfProject\QuartzDemo\RabbitMqService\obj\Release\RabbitMqService.csprojResolveAssemblyReference.cache

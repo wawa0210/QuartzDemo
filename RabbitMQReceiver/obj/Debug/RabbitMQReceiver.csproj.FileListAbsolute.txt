@@ -1,0 +1,13 @@
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQReceiver.exe.config
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQReceiver.exe
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQReceiver.pdb
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\DB_Entity.dll
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\Newtonsoft.Json.dll
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQ.Client.dll
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQ.ServiceModel.dll
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\SmartThreadPool.dll
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\DB_Entity.pdb
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\bin\Debug\RabbitMQ.Client.xml
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\obj\Debug\RabbitMQReceiver.csprojResolveAssemblyReference.cache
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\obj\Debug\RabbitMQReceiver.exe
+D:\SelfProject\QuartzDemo\RabbitMQReceiver\obj\Debug\RabbitMQReceiver.pdb

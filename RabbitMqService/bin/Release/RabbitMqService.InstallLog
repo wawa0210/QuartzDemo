@@ -1,0 +1,39 @@
+﻿Installing assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Installing service RabbitmqServiceDemo...
+Service RabbitmqServiceDemo has been successfully installed.
+Creating EventLog source RabbitmqServiceDemo in log Application...
+Committing assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Installing assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Installing service RabbitmqServiceDemo...
+Creating EventLog source RabbitmqServiceDemo in log Application...
+Rolling back assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Restoring event log to previous state for source RabbitmqServiceDemo.
+Installing assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Installing service RabbitmqServiceDemo...
+Creating EventLog source RabbitmqServiceDemo in log Application...
+Rolling back assembly 'D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.exe
+   logfile = D:\SelfProject\QuartzDemo\RabbitMqService\bin\Release\RabbitMqService.InstallLog
+Restoring event log to previous state for source RabbitmqServiceDemo.

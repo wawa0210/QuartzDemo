@@ -1,0 +1,14 @@
+D:\SelfProject\QuartzDemo\Log_BLL\obj\Release\Log_BLL.csprojResolveAssemblyReference.cache
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Log_BLL.dll
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Log_BLL.pdb
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Quartz.dll
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Quartz.pdb
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Quartz.xml
+D:\SelfProject\QuartzDemo\Log_BLL\obj\Release\Log_BLL.dll
+D:\SelfProject\QuartzDemo\Log_BLL\obj\Release\Log_BLL.pdb
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.Core.dll
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.dll
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.pdb
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.xml
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.Core.pdb
+D:\SelfProject\QuartzDemo\Log_BLL\bin\Release\Common.Logging.Core.xml

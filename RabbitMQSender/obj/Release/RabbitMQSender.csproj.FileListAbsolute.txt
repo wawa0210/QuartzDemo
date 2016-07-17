@@ -1,0 +1,16 @@
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQSender.exe.config
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQSender.exe
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQSender.pdb
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\DB_Entity.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\Newtonsoft.Json.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQ.Client.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQ.ServiceModel.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\SmartThreadPool.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\DB_Entity.pdb
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\RabbitMQ.Client.xml
+D:\SelfProject\QuartzDemo\RabbitMQSender\obj\Release\RabbitMQSender.csprojResolveAssemblyReference.cache
+D:\SelfProject\QuartzDemo\RabbitMQSender\obj\Release\RabbitMQSender.exe
+D:\SelfProject\QuartzDemo\RabbitMQSender\obj\Release\RabbitMQSender.pdb
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\Log4NetDemo.exe
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\log4net.dll
+D:\SelfProject\QuartzDemo\RabbitMQSender\bin\Release\Log4NetDemo.pdb

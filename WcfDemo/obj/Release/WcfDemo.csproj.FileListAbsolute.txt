@@ -1,0 +1,6 @@
+D:\SelfProject\QuartzDemo\WcfDemo\bin\WcfDemo.dll.config
+D:\SelfProject\QuartzDemo\WcfDemo\bin\WcfDemo.dll
+D:\SelfProject\QuartzDemo\WcfDemo\bin\WcfDemo.pdb
+D:\SelfProject\QuartzDemo\WcfDemo\obj\Release\WcfDemo.dll
+D:\SelfProject\QuartzDemo\WcfDemo\obj\Release\WcfDemo.pdb
+D:\SelfProject\QuartzDemo\WcfDemo\obj\Release\WcfDemo.csprojResolveAssemblyReference.cache

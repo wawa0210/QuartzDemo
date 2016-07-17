@@ -1,0 +1,4 @@
+D:\SelfProject\DesignPattern\DemoInterface\bin\Debug\DemoInterface.dll
+D:\SelfProject\DesignPattern\DemoInterface\bin\Debug\DemoInterface.pdb
+D:\SelfProject\DesignPattern\DemoInterface\obj\Debug\DemoInterface.dll
+D:\SelfProject\DesignPattern\DemoInterface\obj\Debug\DemoInterface.pdb
